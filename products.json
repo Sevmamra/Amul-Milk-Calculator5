@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bmilk_500",
+    "name": "Buffalo Milk",
+    "size": "500ml",
+    "price": 865.08,
+    "category": "Milk",
+    "container": "crate"
+  },
+  {
+    "id": "gold_500",
+    "name": "Gold",
+    "size": "500ml",
+    "price": 794.40,
+    "category": "Milk",
+    "container": "crate"
+  },
+  {
+    "id": "shakti_500",
+    "name": "Shakti",
+    "size": "500ml",
+    "price": 723.60,
+    "category": "Milk",
+    "container": "crate"
+  },
+  {
+    "id": "dahi_200",
+    "name": "Masti Dahi Cup",
+    "size": "200g",
+    "price": 515.52,
+    "category": "Dahi",
+    "container": "box"
+  },
+  {
+    "id": "mishti_80",
+    "name": "Mishti Doi Cup",
+    "size": "80g",
+    "price": 612.00,
+    "category": "Dahi",
+    "container": "box"
+  },
+  {
+    "id": "bmilk_proo",
+    "name": "Pro. Buttermilk",
+    "size": "300ml",
+    "price": 372.00,
+    "category": "Buttermilk",
+    "container": "crate"
+  },
+  {
+    "id": "chaas_masala",
+    "name": "Pro. Masala Chaas",
+    "size": "280ml",
+    "price": 360.00,
+    "category": "Buttermilk",
+    "container": "crate"
+  }
+]
